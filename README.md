@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJGood96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and anything that I can get my hands on to become a better developer/programmer
+- 👀 I’m interested in Cloud Development
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 Can reach me at my email: spencer.good@ymail.com
 

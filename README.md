@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SJGood96
-- 👀 I’m interested in Cloud Development
-- 🌱 I’m currently learning Terraform
+- 👋 Hi, my name is Spencer
+- 👀 I’m interested in Cloud Development, Networking, and Cybersecurity
+- 🌱 I’m currently learning Terraform and docker. Also how to incorperate terraform and docker into my homelab
 - 💞️ I’m looking to collaborate on ...
 - 📫 Can reach me at my email: spencer.good@ymail.com
 

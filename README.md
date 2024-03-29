@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Spencer
-- 👀 I’m interested in Cloud Development, Networking, and Cybersecurity
-- 🌱 I’m currently learning Terraform and docker. Also how to incorperate terraform and docker into my homelab
+- 👀 I’m interested in Cloud Development, scripting, and Cybersecurity
+- 🌱 I’m currently learning Terraform and docker along with bash shell
 - 📫 Can reach me at my email: spencer.good@ymail.com
 
 <!---
